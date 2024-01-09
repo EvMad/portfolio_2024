@@ -81,8 +81,7 @@ h1 {
     border: 2px solid;
     border-color: var(--dark);
     border-radius: 5px;
-    min-width: 20px;
-    min-height: 20px;
+    min-height: 300px;
     max-width: 300px;
     margin: 5px;
     cursor: pointer;
