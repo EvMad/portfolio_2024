@@ -37,6 +37,13 @@ body {
     
 }
 
+.heroIcons {
+    font-size: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
 h1 {
     color: var(--dark);
     padding: 10px;
