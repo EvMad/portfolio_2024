@@ -49,6 +49,10 @@ body {
     padding: 40px;
 }
 
+a:hover {
+    color: var(--grey);
+}
+
 h1 {
     color: var(--dark);
     padding: 10px;
