@@ -38,6 +38,10 @@ body {
     
 }
 
+hr {
+    border-color: var(--alert);
+}
+
 .heroIcons {
     font-size: 50px;
     display: flex;
@@ -123,6 +127,10 @@ h2 {
 @media only screen and (max-width: 400px) {
     h1 {
         font-size: 20px;
+    }
+
+    .column {
+        padding-bottom: 10px;
     }
 
 }
