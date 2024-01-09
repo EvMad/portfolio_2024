@@ -44,6 +44,11 @@ body {
     justify-content: center;
 }
 
+.heroIcons > a {
+    color: var(--dark);
+    padding: 40px;
+}
+
 h1 {
     color: var(--dark);
     padding: 10px;
