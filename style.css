@@ -9,3 +9,7 @@
     --light: #FFFFFF;
     --grey: #616A64;
 }
+
+body {
+    background-color: var(--light);
+}
