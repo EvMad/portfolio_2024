@@ -1,5 +1,7 @@
 # Evan Madden - Portfolio 2024
 
+[Portfolio](https://evmad.github.io/portfolio_2024/)
+
 ## ABOUT
 
 Created on January 9th, 2024 with HTML and CSS, intended to highlight a mobile-first, responsive design with high contrast.
