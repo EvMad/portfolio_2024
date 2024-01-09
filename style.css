@@ -95,6 +95,8 @@ h2 {
     padding: 10px;
     margin-bottom: 10px;
     text-align: center;
+    border-bottom: 1px solid;
+    border-color: var(--alert);
 }
 
 .desc {
