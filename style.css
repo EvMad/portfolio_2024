@@ -23,3 +23,13 @@ body {
     min-width: 80vw;
     min-height: 50vh;
 }
+
+.hero {
+    min-width: 75vw;
+    min-height: 25vh;
+    position: sticky;
+    background-color: var(--light);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-color: var(--grey);
+}
