@@ -86,6 +86,12 @@ h1 {
     cursor: pointer;
 }
 
+h2 {
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 .desc {
     color: var(--grey);
     font-size: 14px;
