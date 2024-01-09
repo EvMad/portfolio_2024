@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    
+}
+
+:root {
+    --dark: #000000;
+    --light: #FFFFFF;
+    --grey: #616A64;
+}
