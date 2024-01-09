@@ -51,7 +51,7 @@ body {
 }
 
 a:hover {
-    color: var(--grey);
+    color: var(--alert);
 }
 
 h1 {
@@ -102,13 +102,21 @@ h2 {
 }
 
 .cardIcon {
-    color: var(--dark);
-    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
-.cardIcon:hover {
+.cardIcon > a {
+    color: var(--dark);
+    font-size: 30px;
+    padding: 15px;
+}
+
+.cardIcon > a:hover {
     color: var(--alert);
 }
+
 
 
 @media only screen and (max-width: 400px) {
