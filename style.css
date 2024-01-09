@@ -29,13 +29,17 @@ body {
     min-height: 25vh;
     position: sticky;
     background-color: var(--light);
+    text-align: center;
+    border: 2px solid;
     border-radius: 5px;
-    margin-bottom: 20px;
     border-color: var(--grey);
+    margin-bottom: 20px;
+    
 }
 
 h1 {
     color: var(--dark);
+    padding: 10px;
 }
 
 .columns {
