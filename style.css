@@ -8,6 +8,7 @@
     --dark: #000000;
     --light: #FFFFFF;
     --grey: #616A64;
+    --alert: #F53F01;
 }
 
 body {
@@ -98,6 +99,15 @@ h2 {
     font-weight: 200;
     font-style: italic;
     padding: 10px;
+}
+
+.cardIcon {
+    color: var(--dark);
+    font-size: 30px;
+}
+
+.cardIcon:hover {
+    color: var(--alert);
 }
 
 
